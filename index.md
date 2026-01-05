@@ -6,4 +6,7 @@ added a H1 header to my file
 
 added an image to my file
 
-
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
